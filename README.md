@@ -2,7 +2,7 @@
 
 **`Estudande`**
 
-Me chamo Cibele Diniz, tenho 19 anos e sou da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UEPB. Sou apaixonada por aprender tecnologia e suas inovações.
+Me chamo Cibele Diniz, tenho 20 anos e sou da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UEPB. Sou apaixonada por aprender tecnologia e suas inovações.
 
 
 
