@@ -1,12 +1,16 @@
 # 👩🏻‍💻 Cibele Diniz
 
-**`Estudande`**
+**Estudante | Ciência da Computação na UEPB**  
+**Student | Computer Science at UEPB**
 
-Me chamo Cibele Diniz, tenho 20 anos e sou da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UEPB. Sou apaixonada por aprender tecnologia e suas inovações.
+---
 
-English translation:
+## Sobre mim | About me
+Me chamo Cibele Diniz, tenho 20 anos e sou da Paraíba. Concluí o ensino médio no IFPB, com o curso técnico em informática. Atualmente, estou cursando Ciência da Computação na UEPB. Sou apaixonada por aprender tecnologia e suas inovações.  
 
 My name is Cibele Diniz, I’m 20 years old and I’m from Paraíba, Brazil. I completed high school at IFPB with a technical course in Informatics. I’m currently studying Computer Science at UEPB. I’m passionate about learning technology and its innovations.
+
+---
 
 
 ### 🤖 Linguagens e Tecnologias
