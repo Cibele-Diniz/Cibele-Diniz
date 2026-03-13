@@ -14,32 +14,12 @@ My name is Cibele Diniz, I’m 20 years old and I’m from Paraíba, Brazil. I c
 ---
 
 🇺🇸  
-I am currently studying Cloud Computing and AWS, and I am very interested in developer communities, teaching, and sharing knowledge with other students.
-
-I enjoy participating in academic projects, helping beginners learn programming tools, and creating educational content.
-
-My goal is to grow in cloud technologies and help build tech communities at my university.
+I am interested in Cloud Computing, AWS, and developer communities.  
+I enjoy teaching technology, creating educational content, and helping other students learn programming tools.
 
 🇧🇷  
-Atualmente estou estudando Computação em Nuvem e AWS, e tenho muito interesse em comunidades de desenvolvedores, ensino e compartilhamento de conhecimento com outros estudantes.
-
-Gosto de participar de projetos acadêmicos, ajudar iniciantes a aprender ferramentas de programação e criar conteúdo educacional.
-
-Meu objetivo é crescer na área de cloud e ajudar a construir comunidades de tecnologia dentro da universidade.
-
-🇺🇸  
-I am currently studying Cloud Computing and AWS, and I am very interested in developer communities, teaching, and sharing knowledge with other students.
-
-I enjoy participating in academic projects, helping beginners learn programming tools, and creating educational content.
-
-My goal is to grow in cloud technologies and help build tech communities at my university.
-
-🇧🇷  
-Atualmente estou estudando Computação em Nuvem e AWS, e tenho muito interesse em comunidades de desenvolvedores, ensino e compartilhamento de conhecimento com outros estudantes.
-
-Gosto de participar de projetos acadêmicos, ajudar iniciantes a aprender ferramentas de programação e criar conteúdo educacional.
-
-Meu objetivo é crescer na área de cloud e ajudar a construir comunidades de tecnologia dentro da universidade.
+Tenho interesse em Computação em Nuvem, AWS e comunidades de desenvolvedores.  
+Gosto de ensinar tecnologia, criar conteúdo educacional e ajudar outros estudantes a aprender ferramentas de programação.
 
 
 ### 🤖 Linguagens e Tecnologias
